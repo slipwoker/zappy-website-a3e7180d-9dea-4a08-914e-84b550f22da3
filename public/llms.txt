@@ -1,0 +1,58 @@
+# אבי מאור יהודה — Generative Engine Optimization Map
+
+> A שירותי גרירה business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-a3e7180d.zappy5.app
+גרר מקצועי ומהיר לרכבי יוקרה ואזורים כפריים. שירות זמין 24/7 עם ציוד מתקדם ונהגים מיומנים. צור קשר עכשיו!
+
+### שירותים
+https://-a3e7180d.zappy5.app/services
+מגוון שירותי גרר: רכבי יוקרה, אזורים כפריים, שירותי חירום 24/7. ציוד מתקדם ונהגים מיומנים. קבל הצעת מחיר עכשיו!
+
+### אודות
+https://-a3e7180d.zappy5.app/about
+למד על הניסיון והמומחיות שלנו בשירותי גרר. צוות מקצועי, ציוד מתקדם ומחויבות לשירות מעולה. גלה מדוע אנחנו הבחירה המובילה!
+
+### צור קשר
+https://-a3e7180d.zappy5.app/contact
+צור קשר עכשיו לשירותי גרר מקצועיים. זמינים 24/7 למענה מהיר. טלפון, טופס יצירת קשר ומיקום. נשמח לעזור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-a3e7180d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-a3e7180d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-a3e7180d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אבי מאור יהודה
+אבי מאור יהודה is a business in the שירותי גרירה industry.
+
+## Target Audience
+- בעלי רכבי יוקרה
+- תושבי אזורים כפריים
+
+## Industry
+שירותי גרירה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-a3e7180d.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-a3e7180d.zappy5.app/robots.txt
